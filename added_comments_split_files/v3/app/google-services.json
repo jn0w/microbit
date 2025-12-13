@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699813345948",
+    "project_id": "microbitv2-1fb5b",
+    "storage_bucket": "microbitv2-1fb5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699813345948:android:9d507a17d161847e554b59",
+        "android_client_info": {
+          "package_name": "com.example.v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlzee8Yk3RF9yL6QO31p3udEuhrLeJjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
